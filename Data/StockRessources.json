@@ -1,0 +1,1767 @@
+{
+  "Graine de Sésame": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Blé": {
+    "quantity": 1,
+    "minQuantity": 420,
+    "price": 0.9833333333333333
+  },
+  "Graine de Pavot": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Bois de Frêne": {
+    "quantity": 6,
+    "minQuantity": 1000,
+    "price": 9.147058823529411
+  },
+  "Ailes de Moskito": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Fer": {
+    "quantity": 0,
+    "minQuantity": 3200,
+    "price": 12.88887323943662
+  },
+  "Patte d'Arakne": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Orge": {
+    "quantity": 8,
+    "minQuantity": 260,
+    "price": 11.467441860465117
+  },
+  "Ortie": {
+    "quantity": 1,
+    "minQuantity": 1040,
+    "price": 13.3275
+  },
+  "Sauge": {
+    "quantity": 0,
+    "minQuantity": 400,
+    "price": 27.375
+  },
+  "Pierre de Granit": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Bois de Châtaignier": {
+    "quantity": 4,
+    "minQuantity": 1600,
+    "price": 13.405
+  },
+  "Parchemin d'Ivoire": {
+    "quantity": 140,
+    "minQuantity": 0
+  },
+  "Parchemin Blanc": {
+    "quantity": 228,
+    "minQuantity": 0
+  },
+  "Parchemin Doré": {
+    "quantity": 94,
+    "minQuantity": 0
+  },
+  "Pierre de Dopeul": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Noix de Kokoko": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Métaria rouge": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Métaria bleue": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Métaria jaune": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Métaria verte": {
+    "quantity": 10,
+    "minQuantity": 40,
+    "price": 783.6
+  },
+  "Métaria Triame bleue": {
+    "quantity": 5,
+    "minQuantity": 40,
+    "price": 1944.5
+  },
+  "Métaria Triame verte": {
+    "quantity": 8,
+    "minQuantity": 40,
+    "price": 1837.1
+  },
+  "Métaria Triame rouge": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Métaria Triame jaune": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Métaria Mage rouge": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Métaria Mage bleue": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Métaria Mage verte": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Métaria Mage jaune": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Rune Ga Pme": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Patte d'Arakne Magique": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Citron": {
+    "quantity": 10,
+    "minQuantity": 600,
+    "price": 187.55438356164385
+  },
+  "Pain des Champs": {
+    "quantity": 120,
+    "minQuantity": 0
+  },
+  "Cendres Éternelles": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Armée de Tiques": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Tranche de Nodkoko": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Kokopaille": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Poils de Moon": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Anneau Nime": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Œil de Pikdoa": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Casque de Sherpoa": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Oreille de Douzdoa": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Gant de Martoa": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Plume de Piou Bleu": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Plume de Piou Violet": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Plume de Piou Vert": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Plume de Piou Rouge": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Plume de Piou Jaune": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Plume de Piou Rose": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Artefact Pandawushu Vent": {
+    "quantity": 22694,
+    "minQuantity": 500,
+    "price": 906.0267605633803
+  },
+  "Étoffe de Kurookin": {
+    "quantity": 9,
+    "minQuantity": 260,
+    "price": 710.2166666666667
+  },
+  "Os de Jiangshi-Nobi": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Dragodinde Ebène et Ivoire": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Bois de Kaliptus": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Amulette du Piou Violet": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Amulette du Piou Vert": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Amulette du Piou Jaune": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Amulette du Piou Rose": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Anneau du Piou Violet": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Anneau du Piou Vert": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Anneau du Piou Jaune": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Anneau du Piou Rose": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Sandales du Piou Bleu": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Sandales du Piou Violet": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Sandales du Piou Jaune": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cape du Piou Violet": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cape du Piou Rose": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cape du Piou Jaune": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Ceinture du Piou Violet": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Ceinture du Piou Vert": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Ceinture du Piou Jaune": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Ceinture du Piou Rose": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Chapeau du Piou Bleu": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Chapeau du Piou Violet": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Chapeau du Piou Vert": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Chapeau du Piou Rose": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Lame brisée de Lichangoro": {
+    "quantity": 88,
+    "minQuantity": 0
+  },
+  "Écorce de Floribonde": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Écorce de Brouture": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Écorce de Nerbe": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Écorce de Fécorce": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Écorce de Chiendent": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Coco du Bitouf Sombre": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Étamine de Floribonde": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Carpelle de Brouture": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Sépale de Nerbe": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Calice de Fécorce": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Bractée de Chiendent": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Amygdales du Bitouf Sombre": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Talon d'achille de l'Abrakleur sombre": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Graine de l'Abrakleur sombre": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Potion Bulbique": {
+    "quantity": 300,
+    "minQuantity": 0
+  },
+  "Pompocape": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Pompocoiffe": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Perce-Neige": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Bois de Tremble": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Frostiz": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Laine de Boufmouth": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Clavicule de Boufmouth": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Oreille de Bouftonmouth": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Cuir de Bouftonmouth": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Œil de Boufmouth de guerre": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Corne de Boufmouth de guerre": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Queue du Boufmouth légendaire": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Laine de Boufmouth légendaire": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Queue du Royalmouth": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Laine du Royalmouth": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Bec du Timansot": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Plume du Timansot": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Aile de Mansobèse": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Peau de Mansobèse": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Duvet de Mamansot": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Arête géante du Shamansot": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Poil de barbe du Shamansot": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Queue du Fu Mansot": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Plume du Mansot Royal": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Œuf du Mansot Royal": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Pince du Fancrôme": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Corde du Fancrôme": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Queue de Fantomalamère": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Huile de Fantimonier": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Coquille de Fantimonier": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Mât de Fantômat": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Dent de Fantômat": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Coquille de Harpirate": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Écaille de Harpirate": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Étoffe de Vigie Pirate": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Œil de Vigie Pirate": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Poil de Ben le Ripate": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Scapula de Ben le Ripate": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Pierre d'Atomystique": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Téphra d'Atomystique": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Résidu de Solfataré": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Ulna de Solfataré": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Cœur de Crapeur": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Œuf de Crapeur": {
+    "quantity": 2,
+    "minQuantity": 20,
+    "price": 3998.9
+  },
+  "Artefact de Fumrirolle": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Pierre de Mofette": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Tuf de Mofette": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Scorie d'Obsidiantre": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Vertèbre d'Obsidiantre": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Oreille de Soryo Givrefoux": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Cuir de Maho Givrefoux": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Laine de Maho Givrefoux": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Laine de Yokaï Givrefoux": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Laine de Tengu Givrefoux": {
+    "quantity": 4,
+    "minQuantity": 20,
+    "price": 9484.7
+  },
+  "Cuir de Tengu Givrefoux": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Eau calme": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Le Guide du Broutard - Visiter Frigost": {
+    "quantity": 12,
+    "minQuantity": 0
+  },
+  "Rune Fui": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Rune Ré Pou": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Malléole de Yomi Givrefoux": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Queue de Yomi Givrefoux": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Lamelle de Dramanite": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Œil de Dramanite": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Volve de Fistulor": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Pédoncule de Fongeur": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Volve de Fongeur": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Écorce d'Abrazif": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Lamelle de Mérulette": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Pédoncule de Mérulette": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Patte de Korriandre": {
+    "quantity": 2,
+    "minQuantity": 60,
+    "price": 9326.4
+  },
+  "Œil de Korriandre": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Œil de Fleuro": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Oreille de Fleuro": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Queue de Wolvero": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Griffe de Blérauve": {
+    "quantity": 2,
+    "minQuantity": 20,
+    "price": 2374.1
+  },
+  "Poil de Blérauve": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Étoffe de Croleur": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Oreille de Croleur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Molaire de Blérice": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Queue de Blérom": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Omoplate de Blérom": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Griffe de Kolosso": {
+    "quantity": 2,
+    "minQuantity": 60,
+    "price": 1584.4
+  },
+  "Étoffe de Kolosso": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Vomer d'Apériglours": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Oreille d'Apériglours": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Poils de Boulglours": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Cuir de Glouragan": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Incisive de Glourmand": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Étoffe de Glourmand": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Antenne de Gloursaya": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Queue de Glourséleste": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Hamatum de Glourséleste": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Queue de Meliglours": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Cornée de Kami Givrefoux": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Incisive de Kami Givrefoux": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Le Cœur d'Iop": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Oreille de Sphincter Cell": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Miroir de Dopeul": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Papier Charbon": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Forcené majeur": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Sang de Ventrublion": {
+    "quantity": 171,
+    "minQuantity": 0
+  },
+  "Molaire de Ventrublion": {
+    "quantity": 57,
+    "minQuantity": 0
+  },
+  "Incisive de Stalak": {
+    "quantity": 4,
+    "minQuantity": 220,
+    "price": 5099.6
+  },
+  "Ethmoïde de Stalak": {
+    "quantity": 10,
+    "minQuantity": 20,
+    "price": 7692.7
+  },
+  "Sang de Karkanik": {
+    "quantity": 1045,
+    "minQuantity": 0
+  },
+  "Malleus de Karkanik": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Incus de Verglasseur": {
+    "quantity": 6,
+    "minQuantity": 80,
+    "price": 2399.8
+  },
+  "Cervelle de Verglasseur": {
+    "quantity": 24,
+    "minQuantity": 0
+  },
+  "Bave de Nessil": {
+    "quantity": 9,
+    "minQuantity": 60,
+    "price": 497.08
+  },
+  "Molaire de Nessil": {
+    "quantity": 21,
+    "minQuantity": 20,
+    "price": 5886.7
+  },
+  "Canine de Krakal": {
+    "quantity": 64,
+    "minQuantity": 40,
+    "price": 849.5
+  },
+  "Crinière de Krakal": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Plume de Dodox": {
+    "quantity": 1,
+    "minQuantity": 80,
+    "price": 2397.6
+  },
+  "Bractée de Drosérâle": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Sépale de Drosérâle": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Canine de Kanimate": {
+    "quantity": 630,
+    "minQuantity": 160,
+    "price": 429.3666666666667
+  },
+  "Griffe de Kanimate": {
+    "quantity": 78,
+    "minQuantity": 0
+  },
+  "Queue de Brikoglours": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Bec de Mansordide": {
+    "quantity": 9,
+    "minQuantity": 100,
+    "price": 403.6
+  },
+  "Sternum de Mansordide": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Astragale de Mécanofoux": {
+    "quantity": 882,
+    "minQuantity": 0
+  },
+  "Oreille de Mécanofoux": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Volve de Mérulor": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Pédoncule de Mérulor": {
+    "quantity": 10,
+    "minQuantity": 20,
+    "price": 4397.4
+  },
+  "Laine de Sylargh": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Scapula du Comte Harebourg": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Pépite": {
+    "quantity": 4629,
+    "minQuantity": 0
+  },
+  "Corde de Boursoin": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Langue de Mimikado": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Antenne de Trésantène": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Corne de Berserkoffre": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Défense du Phossile": {
+    "quantity": 6,
+    "minQuantity": 180,
+    "price": 1875.7777777777778
+  },
+  "Griffe de Phorrêveur": {
+    "quantity": 1776,
+    "minQuantity": 240,
+    "price": 141.192
+  },
+  "Peau de Métaphorreur": {
+    "quantity": 1633,
+    "minQuantity": 0
+  },
+  "Corne de Père Phorreur": {
+    "quantity": 2308,
+    "minQuantity": 60,
+    "price": 189.26363636363635
+  },
+  "Œil de Phozami": {
+    "quantity": 2530,
+    "minQuantity": 0
+  },
+  "Queue de Mère Veilleuse": {
+    "quantity": 3235,
+    "minQuantity": 20,
+    "price": 74.56666666666666
+  },
+  "Joyau de la couronne du roi Nidas": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Morceau de clef de Paspartou": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Boule en or de Piloztère": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Kamatrix": {
+    "quantity": 1842,
+    "minQuantity": 0
+  },
+  "Dent de Phorreur": {
+    "quantity": 4,
+    "minQuantity": 20,
+    "price": 19499.7
+  },
+  "Tourmaline": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Œil de Verminocule": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Noyau de Protozorreur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Aile de Vortex": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Serre d'Ikargn": {
+    "quantity": 94,
+    "minQuantity": 0
+  },
+  "Corne de Méjaire": {
+    "quantity": 63,
+    "minQuantity": 0
+  },
+  "Œil de Harpille": {
+    "quantity": 153,
+    "minQuantity": 0
+  },
+  "Plume de Brabuzar": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Sablier miniature": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Feu Intérieur": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Potion Axel Raide": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet d'Aubergines": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Cendres Éternelles": {
+    "quantity": 29,
+    "minQuantity": 0
+  },
+  "Sachet de Cerises": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Citrons": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Tonneau de Jus Goûtu": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Tonneau d'Eau Potable": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Feuilles de Salace": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Graisse Gélatineuse": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Haricots": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Tonneau d'Huile à Frire": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Poivre": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Sel": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet d'Oignons": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Sachet de Poudre Temporelle": {
+    "quantity": 151,
+    "minQuantity": 0
+  },
+  "Sachet de Résine": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Tonneau de Sang de Scorbute": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Pého majeure": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Pého magistrale": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Dokoko": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cape du Valet Veinard": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Ambre gris": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Bave de Mol Usk": {
+    "quantity": 5,
+    "minQuantity": 320,
+    "price": 7387.521428571428
+  },
+  "Pince de Crabe Yoloniste": {
+    "quantity": 9,
+    "minQuantity": 120,
+    "price": 649.6
+  },
+  "Écaille de Gambaf": {
+    "quantity": 3,
+    "minQuantity": 120,
+    "price": 19997.409090909092
+  },
+  "Queue de Mantaze": {
+    "quantity": 6,
+    "minQuantity": 100,
+    "price": 4549.344444444445
+  },
+  "Parasite Aquatique": {
+    "quantity": 9,
+    "minQuantity": 160,
+    "price": 3889
+  },
+  "Poil de Meno": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Peau de Trithon": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Dentier de Dantinéa": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Tentacule de N'Yalg": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Patte de Li-Fo": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Flûte de Klûtiste": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Dent de Tilamproie": {
+    "quantity": 0,
+    "minQuantity": 160,
+    "price": 3320.1
+  },
+  "Marteau R'ture": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Œil de Feutôme": {
+    "quantity": 8,
+    "minQuantity": 240,
+    "price": 23784.766666666666
+  },
+  "Pince de Crâme": {
+    "quantity": 464,
+    "minQuantity": 240,
+    "price": 2236.75
+  },
+  "Brûlâme encapsulé": {
+    "quantity": 10,
+    "minQuantity": 100,
+    "price": 5817.6625
+  },
+  "Fragment d'Ectorche": {
+    "quantity": 3624,
+    "minQuantity": 0
+  },
+  "Restes d'Esprigné": {
+    "quantity": 1244,
+    "minQuantity": 240,
+    "price": 1050.2
+  },
+  "Chope de Bière": {
+    "quantity": 10,
+    "minQuantity": 80,
+    "price": 2965.133333333333
+  },
+  "Epaulette de Dazak Martegel": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Fronde de Boufbos": {
+    "quantity": 8,
+    "minQuantity": 360,
+    "price": 1228.9333333333334
+  },
+  "Poils de barbe de Barbélier": {
+    "quantity": 1,
+    "minQuantity": 180,
+    "price": 1205.1851851851852
+  },
+  "Jambière de Kasrok": {
+    "quantity": 9,
+    "minQuantity": 120,
+    "price": 14505.1
+  },
+  "Dent de Vatenbière": {
+    "quantity": 4,
+    "minQuantity": 120,
+    "price": 3648.3
+  },
+  "Cadob'Lik": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Harnachement Lagon-dinde": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "La menace aux yeux rouges": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Œil de Crocodaille albinos": {
+    "quantity": 3,
+    "minQuantity": 20,
+    "price": 3997.6
+  },
+  "Bandeau de Voapah": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Poupée de Caïguille": {
+    "quantity": 0,
+    "minQuantity": 120,
+    "price": 8881.9
+  },
+  "Pagne d'Alashasss": {
+    "quantity": 0,
+    "minQuantity": 20,
+    "price": 2589.7
+  },
+  "Canine de Cronnibal": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Germes corrompus": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Peau pourrie de Dolid": {
+    "quantity": 5,
+    "minQuantity": 0
+  },
+  "Patte de Nheur'Gueule": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Tentacule de Tentaclaque": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Pétale de Gangredogue": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Bois de pagaie usée": {
+    "quantity": 73,
+    "minQuantity": 0
+  },
+  "Baguette Rythmique": {
+    "quantity": 9,
+    "minQuantity": 40,
+    "price": 678.2
+  },
+  "Collier d'esclave": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Boulet lesté": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Manche de Fouet": {
+    "quantity": 111,
+    "minQuantity": 0
+  },
+  "Étoffe sanglante": {
+    "quantity": 6,
+    "minQuantity": 40,
+    "price": 7796.2
+  },
+  "Sang coagulé": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Canine tranchante": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Fragment d'armure": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Linothorax": {
+    "quantity": 5,
+    "minQuantity": 120,
+    "price": 10877.2
+  },
+  "Lame tranchante": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Codex Aqua": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Pichon d'encre": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Épaulières du Forban": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Pétale de Papier": {
+    "quantity": 446,
+    "minQuantity": 20,
+    "price": 9249.9
+  },
+  "Poing-virgule d'Imushin": {
+    "quantity": 262,
+    "minQuantity": 0
+  },
+  "Carapace circonflexe d'Imorok": {
+    "quantity": 114,
+    "minQuantity": 120,
+    "price": 7981.4
+  },
+  "Guillemets d'Imiyama": {
+    "quantity": 337,
+    "minQuantity": 120,
+    "price": 8038.9
+  },
+  "Cédille d'Imetsu": {
+    "quantity": 2,
+    "minQuantity": 40,
+    "price": 2401.105882352941
+  },
+  "Pétale d'encre": {
+    "quantity": 83,
+    "minQuantity": 20,
+    "price": 8389.633333333333
+  },
+  "Poing-virgule de Shinlam": {
+    "quantity": 729,
+    "minQuantity": 220,
+    "price": 16396.572727272727
+  },
+  "Carapace circonflexe de Rokoram": {
+    "quantity": 834,
+    "minQuantity": 0,
+    "price": 7890.7
+  },
+  "Guillemets de Mabram": {
+    "quantity": 312,
+    "minQuantity": 100,
+    "price": 3175.16
+  },
+  "Cédille de Tsunam": {
+    "quantity": 204,
+    "minQuantity": 0
+  },
+  "Pwâkano en Chocolat": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Annœuf en Chocolat": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Spalière de Krâradia": {
+    "quantity": 4,
+    "minQuantity": 60,
+    "price": 1369.3
+  },
+  "Diadème de Belilith": {
+    "quantity": 6,
+    "minQuantity": 240,
+    "price": 19688
+  },
+  "Scalp de Bwariok": {
+    "quantity": 0,
+    "minQuantity": 220,
+    "price": 1528.8
+  },
+  "Groin de Porkzebuth": {
+    "quantity": 2,
+    "minQuantity": 280,
+    "price": 18481.110526315788
+  },
+  "Aile d'Eninferno": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Appendice Démoniaque": {
+    "quantity": 9,
+    "minQuantity": 0
+  },
+  "Mâchoire de Brutasmodan": {
+    "quantity": 6,
+    "minQuantity": 100,
+    "price": 13299.5
+  },
+  "Langue de Diabélial": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Corne de Typhomet": {
+    "quantity": 4,
+    "minQuantity": 120,
+    "price": 9219.7
+  },
+  "Tentacule de Démoloch": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Pic de Ravageur": {
+    "quantity": 8,
+    "minQuantity": 100,
+    "price": 18884.5
+  },
+  "Œil de Harrogant": {
+    "quantity": 10,
+    "minQuantity": 0
+  },
+  "Culotte de Harrogant": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Cuir de Grodruche": {
+    "quantity": 3,
+    "minQuantity": 60,
+    "price": 721.6
+  },
+  "Étoffe de Grodruche": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cuir d'Empaillé": {
+    "quantity": 4,
+    "minQuantity": 100,
+    "price": 2484.8
+  },
+  "Cœur d'Empaillé": {
+    "quantity": 3,
+    "minQuantity": 0
+  },
+  "Cuir de Cuirboule": {
+    "quantity": 4,
+    "minQuantity": 60,
+    "price": 1997.1
+  },
+  "Dent de Cuirboule": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Bec de Dodox": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Sachet d'Épices": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Cape du Parrain": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cape Rentie": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Capewaïï": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Épaugriffes": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cape de Lonne": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Cape du Samouraï": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Eau Potable": {
+    "quantity": 8,
+    "minQuantity": 200,
+    "price": 76.74
+  },
+  "Menthe Sauvage": {
+    "quantity": 0,
+    "minQuantity": 60,
+    "price": 29.36542857142857
+  },
+  "Trèfle à 5 feuilles": {
+    "quantity": 0,
+    "minQuantity": 0,
+    "price": 43
+  },
+  "Cuivre": {
+    "quantity": 0,
+    "minQuantity": 40,
+    "price": 90.52666666666667
+  },
+  "Bronze": {
+    "quantity": 0,
+    "minQuantity": 820,
+    "price": 49.59225806451613
+  },
+  "Kobalte": {
+    "quantity": 0,
+    "minQuantity": 800,
+    "price": 35.93451612903226
+  },
+  "Etain": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Manganèse": {
+    "quantity": 0,
+    "minQuantity": 200,
+    "price": 4.980817610062893
+  },
+  "Orchidée Freyesque": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Graine de Pandouille": {
+    "quantity": 0,
+    "minQuantity": 0,
+    "price": 54.974
+  },
+  "Ginsengoku": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Belladone": {
+    "quantity": 0,
+    "minQuantity": 400,
+    "price": 179.24924528301887
+  },
+  "Mandragore": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Ginseng": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Laine de Bouftou": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Noix de Cajou": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Slip de Bwork Archer": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Gelano": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Amulette d'Ali Grothor": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Bottes de XLII": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Anneau de XLII": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Dofus Argenté": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Dofus Émeraude": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Amulette du Renouveau": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Dofus Ivoire": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Casque Dragoeuf": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Chapeau de Crocodaille Dandi": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Ougamulette": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Alliance Gloursonne": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Ceinture de Brouce": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Anneau de Brouce": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Cape Reski": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Rouleau à Pâtisserie d'Aermyne": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Bloqueur majeur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Précurseur majeur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Robuste majeur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Kompost": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Baleinabottes": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Griffe de Buboxor": {
+    "quantity": 48,
+    "minQuantity": 0
+  },
+  "Ceinture de XLII": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Obstructeur majeur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Enragé majeur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Vigoureux majeur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Remueur": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Dynamo magistrale": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Kyoub magistrale": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Pétunia mineure": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Pétunia": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Pétunia majeure": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Pétunia magistrale": {
+    "quantity": 1,
+    "minQuantity": 0
+  },
+  "Arc du Chalœil": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Bottes Innommables": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Fragment de Chakanoubis": {
+    "quantity": 7,
+    "minQuantity": 0
+  },
+  "Dent de Bandleth": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Grenat de Momistik": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Paupière Dorée de Rykaon": {
+    "quantity": 8,
+    "minQuantity": 0
+  },
+  "Scarabée Chrysonéfritin": {
+    "quantity": 4,
+    "minQuantity": 0
+  },
+  "Bouclier Taverne": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Cape d'Anerice": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Bouclier d'Anerice": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Alliance d'Hell Mina": {
+    "quantity": 0,
+    "minQuantity": 0
+  },
+  "Potion Torboyo": {
+    "quantity": 6,
+    "minQuantity": 0
+  },
+  "Dorade au four": {
+    "quantity": 381,
+    "minQuantity": 0
+  },
+  "Grillade Brâkmarienne": {
+    "quantity": 2,
+    "minQuantity": 0
+  },
+  "Filet Mignon": {
+    "quantity": 0,
+    "minQuantity": 0
+  }
+}
